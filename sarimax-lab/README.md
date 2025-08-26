@@ -35,6 +35,7 @@
 cd sarimax-lab
 python -m venv bf-env
 source bf-env/bin/activate
+```
 
 **Step 5: Install Dependencies**
 pip install pandas numpy matplotlib statsmodels
@@ -42,10 +43,11 @@ pip install pandas numpy matplotlib statsmodels
 **Step 6: Run the Code**
 
 Upload code and data files from your local folder and run
+
 ```bash
 # Terminal commands
 python sarima-bf-scaling.py
-
+```
 # Expected Output
 
 Training metrics: RMSE and MAPE values
