@@ -39,7 +39,8 @@ source bf-env/bin/activate
 
 **Step 5: Install Dependencies**
 
-```
+```bash
+# Terminal commands
 pip install pandas numpy matplotlib statsmodels
 ```
 
