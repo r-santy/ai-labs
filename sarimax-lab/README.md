@@ -50,6 +50,6 @@ python sarima-bf-scaling.py
 ```
 # Expected Output
 
-Training metrics: RMSE and MAPE values
-Forecast plot showing actual vs predicted Black Friday traffic
-Predicted no. of VMs
+- Training metrics: RMSE and MAPE values
+- Forecast plot showing actual vs predicted Black Friday traffic
+- Predicted no. of VMs
